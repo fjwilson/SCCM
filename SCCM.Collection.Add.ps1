@@ -2,7 +2,7 @@
 Add a computer to multiple SCCM collections
 Author:Fabian Wilson
 Date:1/3/2017
-
+Version:1.0
 #>
 $server = "SCCMServer"
 $FolderID = "Put the folder ID here" # Use the WMI tool to get the FolderID
